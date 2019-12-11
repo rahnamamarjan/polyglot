@@ -77,7 +77,7 @@ To inquiry the polarity of a word, we can just call its own attribute
 
 .. code:: python
 
-    text = Text("The movie was really good.")
+    text = Text("she is really beautiful.")
 
 .. code:: python
 
