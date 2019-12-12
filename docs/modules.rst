@@ -1,7 +1,1 @@
-polyglot
-========
-
-.. toctree::
-   :maxdepth: 4
-
-   polyglot
+مشهد شهر خوبی است
